@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -o resume-new -m \"Auto update from local\""
+    "deploy": "gh-pages -d local_build -o resume-new -m \"Auto update from local\""
   },
   "eslintConfig": {
     "extends": [
